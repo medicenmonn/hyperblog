@@ -6,3 +6,4 @@ Miercoles: ux
 Jueves: desarrollo web
 
 El resto de la semana debo practicar todo si de verdad quiero ser frontend
+Aunque tal vez descanse un día, ese día leeré 
