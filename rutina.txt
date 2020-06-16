@@ -5,4 +5,4 @@ Martes: escuelas de JS
 Miercoles: ux
 Jueves: desarrollo web
 
-El resto de la semana campechano
+El resto de la semana debo practicar todo si de verdad quiero ser frontend
