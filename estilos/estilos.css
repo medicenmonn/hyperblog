@@ -3,11 +3,30 @@ body
     color: mediumseagreen;
     text-align: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkseagreen;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#cabecera 
+{
+    background: mediumpurple;
+    box-shadow: 0px 5px 30px 0px rgba(0,0,0,o,75);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.7em;
 }
 #container 
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: center;
     border: 2px solid #dddddd;
     margin: 0 auto;
@@ -15,4 +34,9 @@ body
 #container h1
 {
     font-size: 25px;
+}
+#post 
+{
+    padding: 1em;
+
 }
